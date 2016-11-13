@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DCF9B343-392A-7853-E870-668748211C88}") = "GameOfTiles", "Assembly-CSharp.csproj", "{4612A809-4163-DDC0-318C-54BEB4CD9F10}"
+EndProject
+Project("{DCF9B343-392A-7853-E870-668748211C88}") = "GameOfTiles", "Assembly-CSharp-Editor.csproj", "{6FBE9F78-EA1E-653B-B7B8-4FB17A2A37E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4612A809-4163-DDC0-318C-54BEB4CD9F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4612A809-4163-DDC0-318C-54BEB4CD9F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4612A809-4163-DDC0-318C-54BEB4CD9F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4612A809-4163-DDC0-318C-54BEB4CD9F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBE9F78-EA1E-653B-B7B8-4FB17A2A37E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBE9F78-EA1E-653B-B7B8-4FB17A2A37E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBE9F78-EA1E-653B-B7B8-4FB17A2A37E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBE9F78-EA1E-653B-B7B8-4FB17A2A37E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
