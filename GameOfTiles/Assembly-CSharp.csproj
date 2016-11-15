@@ -346,6 +346,7 @@
      <Compile Include="Assets\Gamelogic\Plugins\Grids\VertexEdge\ISupportsVertexGrid.cs" />
      <Compile Include="Assets\Gamelogic\Plugins\Grids\VertexEdge\PointyHexVertexEdge.cs" />
      <Compile Include="Assets\Gamelogic\Plugins\Grids\VertexEdge\RectVertexEdge.cs" />
+     <Compile Include="Assets\Scripts\Cards\CardInfo.cs" />
      <Compile Include="Assets\Scripts\Grid\CustomCell.cs" />
      <Compile Include="Assets\Scripts\Grid\TileStatus.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerControls.cs" />
